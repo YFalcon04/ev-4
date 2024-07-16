@@ -1,0 +1,22 @@
+.card {
+    border: 3px solid #169fa1;
+    border-radius: 0.5rem;
+    
+}
+
+.card-body {
+    background-color: #81ece3;
+    padding: 1.25rem;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.125rem;
+    margin-bottom: 0.75rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 1rem;
+}
